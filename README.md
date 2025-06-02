@@ -17,10 +17,6 @@ This project implements a pluggable **Rate Limiter** system in C++ using object-
 ## 🛠️ Technologies
 
 - Language: **C++**
-- STL: `chrono`, `unordered_map`, `memory`
+- STL: `chrono`, `unordered_map`
 - Design Patterns: **Strategy**, **Factory**
-
----
-
-## 📁 Project Structure
 
