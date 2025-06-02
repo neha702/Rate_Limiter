@@ -1,6 +1,6 @@
 # C++ Rate Limiter
 
-This project implements a pluggable **Rate Limiter** system in C++ using object-oriented design principles. The system supports multiple rate limiting strategies such as Token Bucket or Fixed Window, and is extensible via a strategy pattern.
+This project implements a pluggable **Rate Limiter** system in C++ using object-oriented design principles. The system supports multiple rate limiting strategies such as Sliding window or Fixed Window, and is extensible via a strategy pattern.
 
 ---
 
